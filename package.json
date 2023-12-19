@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "concurrently": "^8.2.1",
+    "react-hook-form": "^7.46.1",
+    "react-router-dom": "^6.15.0"
+  },
+  "devDependencies": {
+    "web-vitals": "^3.4.0"
+  }
+}
